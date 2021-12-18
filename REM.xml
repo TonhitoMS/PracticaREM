@@ -1999,10 +1999,10 @@ Equipo de redacción del documento</rem:name>
 None</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>5.A </rem:number>
-<rem:paragraph
- oid = "PRG-0001">
+<rem:stakeholder
+ oid = "STK-0004">
 <rem:name>
-Nombres equipo</rem:name>
+Fernando González Salas</rem:name>
 <rem:version>
 <rem:major>1</rem:major>
 <rem:minor>0</rem:minor>
@@ -2014,8 +2014,86 @@ Nombres equipo</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>Antonio Moscoso Sánchez<br/>Fernando González Salas<br/>David Gavilanes de Dios<br/>Diego Beltrán Fernández Prada<br/>Paulo Antón Gómez Prieto</rem:text>
-</rem:paragraph>
+<rem:stakeholderRole>Diseñador</rem:stakeholderRole>
+<rem:isDeveloper/>
+<rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
+<rem:stakeholder
+ oid = "STK-0003">
+<rem:name>
+David Gavilanes de Dios</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole>Analista</rem:stakeholderRole>
+<rem:isDeveloper/>
+<rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
+<rem:stakeholder
+ oid = "STK-0005">
+<rem:name>
+Antonio Moscoso Sánchez</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole>Director de proyecto</rem:stakeholderRole>
+<rem:isDeveloper/>
+<rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
+<rem:stakeholder
+ oid = "STK-0006">
+<rem:name>
+Diego Beltrán Fernández Prada</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole>Analista</rem:stakeholderRole>
+<rem:isDeveloper/>
+<rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
+<rem:stakeholder
+ oid = "STK-0007">
+<rem:name>
+Paulo Antón Gómez Prieto</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:stakeholderRole>Diseñador</rem:stakeholderRole>
+<rem:isDeveloper/>
+<rem:worksFor organization = "ORG-0002"/>
+</rem:stakeholder>
 </rem:section>
 <rem:section
  oid = "SEC-0026">
@@ -2034,6 +2112,36 @@ Entrevistas y reuniones</rem:name>
 None</rem:comments>
 <rem:level>2</rem:level>
 <rem:number>5.B </rem:number>
+<rem:meeting
+ oid = "MET-0001">
+<rem:name>
+Reunion TFEA</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+</rem:version>
+<rem:authors stakeholders ="STK-0002 "/>
+<rem:sources stakeholders ="STK-0001 "/>
+<rem:comments>
+Ninguno</rem:comments>
+<rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:time>
+<rem:hour>17</rem:hour>
+<rem:minute>53</rem:minute>
+</rem:time>
+<rem:place>Rectorado USC</rem:place>
+<rem:results>Información necesario de las necesidades de nuestro cliente para poder extraer requisitos</rem:results>
+	<rem:attenders stakeholders ="STK-0002 STK-0001 "/>
+</rem:meeting>
 <rem:section
  oid = "SEC-0027">
 <rem:name>
@@ -2066,7 +2174,7 @@ Entrevista</rem:name>
 </rem:version>
 <rem:comments>
 Ninguno</rem:comments>
-<rem:text>ACTA ENTREVISTA:<br/><br/>CLIENTE: Bos días.<br/>EQUIPO DE DESARROLLO: Bos días, son o xefe de desenvolvemento da empresa. Coménteme, cal é o seu problema?<br/>CL: Queremos facer unha aplicación de xestión de riscos que controle posibles peligros en todos os edificios da USC.<br/>ED: Para que tipo de dispositivos sería a aplicación?<br/>CL:  En principio, para dispositivos móbiles porque queremos que actúen os diferentes protocolos nun &quot;click&quot; para que as notificacións se poidan realizar o máis rápido posible.<br/>ED: Contades con algunha infraestructura de servidores?<br/>CL: Sí que temos servidores, pero necesitamos xente para xestionalos. Gustarianos que fosen vostedes. <br/>ED: Non habería problema nese aspecto, e cal sería o presuposto aproximado que teñen para o proxecto?<br/>CL: Serían uns 30.000€ aproximadamente.<br/>ED: De acordo, e cal sería o prazo de desenvolvemento?<br/>CL: Queremos que estea todo listo para o comezo do segundo cuatrimestre, aproximadamente 2 meses.<br/>ED: Ocrreseme unha dúbida sobre a xestión que desexan implementar, a aplicación ten que estar dispoñible as 24 horas?<br/>CL: Sí, a aplicación tería que estar conectada as 24 horas para poder notificar unha emerxencia en calquera momento. <br/>ED: Sería necesario que formemos á vosa plantilla para que se familiarice co uso da app?<br/>CL: Si, é necesario formar ao grupo de coordinación de seguridade, un grupo dos participantes do equipo de resposta e aos responsables dos servizos informáticos para coordinar os servizos. <br/>ED: Estupendo, poderían darnos un exemplo práctico do uso da aplicación para facernos unha imaxen global do produto que desexan. <br/>CL: Por suposto, imaxínese que se está producindo un incendio, quen o vexa pulsa o botón da app e móstraselle o protocolo de evacuación (que evidentemente deben poder ser configurados e modificados polo persoal competente da USC), avísase ao equipo de coordinación de seguridade e estes ao servizo de resposta a emerxencias, a quen se lles proporciona toda a información necesaria para poder actuar, de modo que poidan acudir ao lugar e lidiar co incendio. O aviso teríase que notificar en menos de 7 segundos ás persoas indicadas. Despois de pasar a emerxencia, a app xera informes do que sucedeu, que serán gardados no servidor para ser eventualmente revisados por unha auditoría.<br/>ED: Quen pode facer uso da aplicación?<br/>CL: Todo o mundo pode usar a app, aínda que sería especialmente recomendado o uso para o persoal relacionado coa USC e obligatorio para os equipos de resposta a emerxencia.<br/>ED: Querían facer unha distinción entre os tipos de usuario na app?<br/>CL: Sí, dous tipos de usuario, o usuario xeral que pode pulsar o botón de emerxencia e iso está accesible a todo o mundo da USC, e o segundo tipo de usuario sería o dos equipos de resposta de emerxencia, dos que se debe monitorizar a localización e a distribución por centros dos diferentes roles destes usuarios.<br/>ED: Bueno, creo que con iso temos suficiente para propoñerlle unha primeira oferta aproximada. Contactaremos con vostede nunhos días para facérsella chegar. Moitas grazas polo seu tempo, teña un bo día.<br/>CL: Grazas, teñan un bo día vostedes tamén. (Sae da habitación) <br/>FIN ENTREVISTA<br/></rem:text>
+<rem:text>Diego Beltrán Fernández Prada:<br/>Obxectos:<br/>-BBDD<br/>-APP<br/>-Manual de uso<br/><br/>Operacións:<br/>-Acceso a la BBDD<br/>-APP en PDAs<br/>-Dispoñibilidade 24h<br/>-Formación a usuarios<br/><br/>Restriccións:<br/>-Coste aproximado de 30.000 €<br/>-Sen restriccións para usuarios<br/>-Prazo 2 meses de desenvolvemento<br/> <br/>Rendemento:<br/>-Latencia<br/>-Redundancia<br/> <br/>Fernando González Salas:<br/>Obxectos: <br/>-Aplicación de emerxencias<br/>-Rede de sensores de emerxencias<br/>-Base de datos de informes<br/>-Base de datos de usuarios<br/><br/>Operacións: <br/>-Formación aos empleados da USC<br/>-Xestión dos servidores<br/>-Comprobación do estado dos sensores<br/>-Aplicación de emerxencias<br/>-Diferentes tipos de usuarios<br/>-Xerador de informes das diferentes emerxencias<br/><br/>Restriccións: <br/>-Aplicación para dispositivos móbiles<br/>-Coste &lt;= 30000€ aproximadamente<br/>-Conexión 24 horas<br/>-Prazo desenvolvemento de 2 meses<br/><br/>Rendemento: <br/>-Execución dunha iteración en caso de emerxencia &lt; 7 segundos<br/>-Xeración precisa dos informes<br/> <br/> <br/>Paulo Gómez Prieto:<br/>Obxectos:<br/>-Servidores <br/>-Persoal de xestión de servidores <br/>-Interface gráfica da aplicación <br/>-Persoal de xestión de emerxencias <br/><br/>Operacións:<br/>-Formación da plantilla da USC no uso da aplicación <br/>-Dous tipos de usuarios <br/>-Os informes de emerxencia gárdanse nunha base de datos <br/>-Dispoñible para dispositivos móbiles <br/><br/>Restriccións:<br/> -Soldo dos traballadores.<br/>-Infraestructura da empresa en mal estado.<br/>-Proxecto rematado en 2 meses<br/>-Custo menor de 30000 euros.<br/><br/><br/>Rendimentos:<br/>-Comunicación rápida de emerxencias entre dispositivos <br/>-Coordinación dos membros do equipo de emerxencias<br/><br/>Antonio:<br/>Obxectos:<br/>-Servidor<br/>-Sensores xerais<br/><br/>Operacións:<br/>-Copia de seguridade do servidor<br/>-Usuario que notifica que non foi rescatado<br/><br/>Restricións:<br/>-Proposta de proxecto para o fin de novembro<br/>-Número de centros que van usar a aplicación<br/><br/> Rendemento:<br/>-Tempo de notificación do aviso	<br/>-Reposición de sensores avariados.<br/> <br/><br/>David Gavilanes de Dios:<br/>Obxectos: <br/>-Teléfono<br/>-Servidores<br/>-Vehículos<br/>-BBDD<br/>-Sensores<br/> <br/>Operacións: <br/>-Aviso de emerxencia<br/>-Formación de uso<br/>-Mantemento de sensores<br/>-Xeolocalización<br/> <br/>Restriccións: <br/>-Tempo de desenvolvemento<br/>-Coste de desenvolvemento<br/>-Funcionamento continuo<br/>-Licencias de Software<br/> <br/>Rendimientos: <br/>-Rapidez da actuación do equipo de emerxencias <br/>-Precisión da localización<br/>-Latencia nas conexións<br/></rem:text>
 </rem:paragraph>
 </rem:section>
 </rem:section>
@@ -2126,70 +2234,13 @@ None
 <rem:trace source = "IRQ-0001"  target = "OBJ-0001" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source = "OBJ-0003"  target = "IRQ-0002" >
+<rem:isChecked/>
+</rem:trace>
 <rem:trace source = "IRQ-0007"  target = "OBJ-0006" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "IRQ-0010"  target = "IRQ-0011" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0003"  target = "IRQ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0010"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0004"  target = "IRQ-0016" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0004"  target = "IRQ-0011" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0006"  target = "IRQ-0017" >
-<rem:isChecked/>
-</rem:trace>
 <rem:trace source = "OBJ-0001"  target = "IRQ-0010" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0004"  target = "IRQ-0017" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0018"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0001"  target = "IRQ-0007" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0002"  target = "IRQ-0009" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0007"  target = "IRQ-0012" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0004"  target = "IRQ-0013" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0013"  target = "OBJ-0001" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0006"  target = "IRQ-0016" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0006"  target = "IRQ-0013" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0009"  target = "OBJ-0001" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0006"  target = "IRQ-0011" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0010"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0005"  target = "OBJ-0004" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0019"  target = "OBJ-0007" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "IRQ-0011"  target = "OBJ-0003" >
@@ -2198,28 +2249,16 @@ None
 <rem:trace source = "IRQ-0008"  target = "IRQ-0007" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "OBJ-0001"  target = "IRQ-0015" >
+<rem:trace source = "OBJ-0002"  target = "IRQ-0003" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "OBJ-0001"  target = "IRQ-0018" >
+<rem:trace source = "OBJ-0004"  target = "IRQ-0013" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "OBJ-0001"  target = "IRQ-0019" >
+<rem:trace source = "IRQ-0004"  target = "OBJ-0004" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "IRQ-0018"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0005"  target = "OBJ-0006" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0003"  target = "IRQ-0002" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "OBJ-0003"  target = "IRQ-0005" >
-<rem:isChecked/>
-</rem:trace>
-<rem:trace source = "IRQ-0003"  target = "OBJ-0001" >
+<rem:trace source = "OBJ-0006"  target = "IRQ-0011" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "IRQ-0003"  target = "OBJ-0004" >
@@ -2228,82 +2267,88 @@ None
 <rem:trace source = "IRQ-0004"  target = "OBJ-0006" >
 <rem:isChecked/>
 </rem:trace>
+<rem:trace source = "IRQ-0003"  target = "OBJ-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0003"  target = "IRQ-0005" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0005"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0007"  target = "IRQ-0012" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0002"  target = "IRQ-0009" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0003"  target = "IRQ-0006" >
+<rem:isChecked/>
+</rem:trace>
 <rem:trace source = "IRQ-0005"  target = "OBJ-0001" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "OBJ-0002"  target = "IRQ-0003" >
+<rem:trace source = "OBJ-0006"  target = "IRQ-0013" >
 <rem:isChecked/>
 </rem:trace>
 <rem:trace source = "IRQ-0003"  target = "OBJ-0003" >
 <rem:isChecked/>
 </rem:trace>
-<rem:trace source = "IRQ-0004"  target = "OBJ-0004" >
+<rem:trace source = "IRQ-0009"  target = "OBJ-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0010"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0010"  target = "IRQ-0011" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0013"  target = "OBJ-0001" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0001"  target = "IRQ-0015" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0004"  target = "IRQ-0016" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0010"  target = "OBJ-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0004"  target = "IRQ-0011" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0006"  target = "IRQ-0016" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0005"  target = "OBJ-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0004"  target = "IRQ-0017" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0001"  target = "IRQ-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0001"  target = "IRQ-0018" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0019"  target = "OBJ-0007" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0006"  target = "IRQ-0017" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0018"  target = "OBJ-0004" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "IRQ-0018"  target = "OBJ-0006" >
+<rem:isChecked/>
+</rem:trace>
+<rem:trace source = "OBJ-0001"  target = "IRQ-0019" >
 <rem:isChecked/>
 </rem:trace>
 <rem:predefinedValueTypes>
-<rem:predefinedValueType
- oid = "PVT-0004">
-<rem:name>
-String</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Predefined OCL type</rem:comments>
-<rem:description>
-Alphanumeric strings</rem:description>
-<rem:definition>
-(null)
-</rem:definition>
-</rem:predefinedValueType>
-<rem:predefinedValueType
- oid = "PVT-0005">
-<rem:name>
-Date</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Predefined OCL type (non-standard)</rem:comments>
-<rem:description>
-Dates</rem:description>
-<rem:definition>
-(null)
-</rem:definition>
-</rem:predefinedValueType>
-<rem:predefinedValueType
- oid = "PVT-0006">
-<rem:name>
-Time</rem:name>
-<rem:version>
-<rem:major>1</rem:major>
-<rem:minor>0</rem:minor>
-<rem:date>
-<rem:year>2000</rem:year>
-<rem:month>10</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-</rem:version>
-<rem:comments>
-Predefined OCL type (non-standard)</rem:comments>
-<rem:description>
-Hour:minutes:seconds</rem:description>
-<rem:definition>
-(null)
-</rem:definition>
-</rem:predefinedValueType>
 <rem:predefinedValueType
  oid = "PVT-0001">
 <rem:name>
@@ -2367,31 +2412,91 @@ Natural numbers</rem:description>
 (null)
 </rem:definition>
 </rem:predefinedValueType>
+<rem:predefinedValueType
+ oid = "PVT-0004">
+<rem:name>
+String</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Predefined OCL type</rem:comments>
+<rem:description>
+Alphanumeric strings</rem:description>
+<rem:definition>
+(null)
+</rem:definition>
+</rem:predefinedValueType>
+<rem:predefinedValueType
+ oid = "PVT-0005">
+<rem:name>
+Date</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Predefined OCL type (non-standard)</rem:comments>
+<rem:description>
+Dates</rem:description>
+<rem:definition>
+(null)
+</rem:definition>
+</rem:predefinedValueType>
+<rem:predefinedValueType
+ oid = "PVT-0006">
+<rem:name>
+Time</rem:name>
+<rem:version>
+<rem:major>1</rem:major>
+<rem:minor>0</rem:minor>
+<rem:date>
+<rem:year>2000</rem:year>
+<rem:month>10</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+</rem:version>
+<rem:comments>
+Predefined OCL type (non-standard)</rem:comments>
+<rem:description>
+Hour:minutes:seconds</rem:description>
+<rem:definition>
+(null)
+</rem:definition>
+</rem:predefinedValueType>
 </rem:predefinedValueTypes>
 <rem:predefinedValues>
-<rem:changeRequestStatusValue oid = "CRV-0002">
-<rem:name>to be analyzed</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0001">
-<rem:name>TBD</rem:name>
-</rem:changeRequestStatusValue>
-<rem:changeRequestStatusValue oid = "CRV-0005">
-<rem:name>verified</rem:name>
-</rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0003">
 <rem:name>to be approved/rejected</rem:name>
 </rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0004">
 <rem:name>to be performed</rem:name>
 </rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0005">
+<rem:name>verified</rem:name>
+</rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0002">
+<rem:name>to be analyzed</rem:name>
+</rem:changeRequestStatusValue>
 <rem:changeRequestStatusValue oid = "CRV-0006">
 <rem:name>rejected</rem:name>
 </rem:changeRequestStatusValue>
+<rem:changeRequestStatusValue oid = "CRV-0001">
+<rem:name>TBD</rem:name>
+</rem:changeRequestStatusValue>
 <rem:conflictStatusValue oid = "CSV-0002">
 <rem:name>not solved</rem:name>
-</rem:conflictStatusValue>
-<rem:conflictStatusValue oid = "CSV-0001">
-<rem:name>TBD</rem:name>
 </rem:conflictStatusValue>
 <rem:conflictStatusValue oid = "CSV-0003">
 <rem:name>under negotiation</rem:name>
@@ -2399,58 +2504,25 @@ Natural numbers</rem:description>
 <rem:conflictStatusValue oid = "CSV-0004">
 <rem:name>solved</rem:name>
 </rem:conflictStatusValue>
+<rem:conflictStatusValue oid = "CSV-0001">
+<rem:name>TBD</rem:name>
+</rem:conflictStatusValue>
 <rem:defectStatusValue oid = "DSV-0003">
 <rem:name>under negotiation</rem:name>
-</rem:defectStatusValue>
-<rem:defectStatusValue oid = "DSV-0004">
-<rem:name>solved</rem:name>
 </rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0001">
 <rem:name>TBD</rem:name>
 </rem:defectStatusValue>
+<rem:defectStatusValue oid = "DSV-0004">
+<rem:name>solved</rem:name>
+</rem:defectStatusValue>
 <rem:defectStatusValue oid = "DSV-0002">
 <rem:name>not solved</rem:name>
 </rem:defectStatusValue>
-<rem:defectTypeValue oid = "DTV-0005">
-<rem:name>No verificability</rem:name>
+<rem:defectTypeValue oid = "DTV-0003">
+<rem:name>No necessity</rem:name>
 <rem:description>
-<![CDATA[It cannot be verified that the requirement or requirements are satisfied by the system]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0013">
-<rem:name>No priority</rem:name>
-<rem:description>
-<![CDATA[The priority, i.e. the importance and urgency of the requirement or requirements have not been determined]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0001">
-<rem:name>TBD</rem:name>
-<rem:description>
-<![CDATA[To Be Determined]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0015">
-<rem:name>Wrong level of detail</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements are not stated at the right level of detail, i.e. they are too abstract or too detailed]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0017">
-<rem:name>Wrong organization</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements are not correctly organized according to applied standards or the document does not contain mandatory sections]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0004">
-<rem:name>No understanding</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements cannot be understood by some reader]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0006">
-<rem:name>No consistency</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements are not consistent, i.e. they are in conflict]]>
+<![CDATA[The requirement or requirements are not necessary because they do not satisfy any customers' or users' need]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0007">
@@ -2465,34 +2537,10 @@ Natural numbers</rem:description>
 <![CDATA[The requirement or requirements contain design-dependant elements]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0016">
-<rem:name>No traceability</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements are not traced to their origins, either higher-level requirements (i.e. objectives) or stakeholders]]>
-</rem:description>
-</rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0011">
 <rem:name>Imprecision</rem:name>
 <rem:description>
 <![CDATA[The requirement or requirements are not stated in a precise way, i.e. using numerical quantities whenever possible with the right level of precision]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0008">
-<rem:name>Verbosity</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements can be expressed in a more concise way without altering their meaning]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0023">
-<rem:name>Other</rem:name>
-<rem:description>
-<![CDATA[The requirement or requirements have another kind of defect]]>
-</rem:description>
-</rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0014">
-<rem:name>No stability</rem:name>
-<rem:description>
-<![CDATA[The stability of the requirement or requirements have not been estimated]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0012">
@@ -2501,10 +2549,34 @@ Natural numbers</rem:description>
 <![CDATA[The requirement or requirements do not describe everything the system is supposed to do, do not describe the responses of the system to all realizable situations, or include to-be-determined (TBD) elements]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0002">
-<rem:name>Ambiguity</rem:name>
+<rem:defectTypeValue oid = "DTV-0013">
+<rem:name>No priority</rem:name>
 <rem:description>
-<![CDATA[The requirement or requirements, although understandable, have more than one possible interpretation]]>
+<![CDATA[The priority, i.e. the importance and urgency of the requirement or requirements have not been determined]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0015">
+<rem:name>Wrong level of detail</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements are not stated at the right level of detail, i.e. they are too abstract or too detailed]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0014">
+<rem:name>No stability</rem:name>
+<rem:description>
+<![CDATA[The stability of the requirement or requirements have not been estimated]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0005">
+<rem:name>No verificability</rem:name>
+<rem:description>
+<![CDATA[It cannot be verified that the requirement or requirements are satisfied by the system]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0008">
+<rem:name>Verbosity</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements can be expressed in a more concise way without altering their meaning]]>
 </rem:description>
 </rem:defectTypeValue>
 <rem:defectTypeValue oid = "DTV-0010">
@@ -2513,14 +2585,50 @@ Natural numbers</rem:description>
 <![CDATA[The requirement or requirements are redundant or contain redundant elements]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:defectTypeValue oid = "DTV-0003">
-<rem:name>No necessity</rem:name>
+<rem:defectTypeValue oid = "DTV-0004">
+<rem:name>No understanding</rem:name>
 <rem:description>
-<![CDATA[The requirement or requirements are not necessary because they do not satisfy any customers' or users' need]]>
+<![CDATA[The requirement or requirements cannot be understood by some reader]]>
 </rem:description>
 </rem:defectTypeValue>
-<rem:importanceValue oid = "IMV-0004">
-<rem:name>would be nice</rem:name>
+<rem:defectTypeValue oid = "DTV-0006">
+<rem:name>No consistency</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements are not consistent, i.e. they are in conflict]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0001">
+<rem:name>TBD</rem:name>
+<rem:description>
+<![CDATA[To Be Determined]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0002">
+<rem:name>Ambiguity</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements, although understandable, have more than one possible interpretation]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0023">
+<rem:name>Other</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements have another kind of defect]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0017">
+<rem:name>Wrong organization</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements are not correctly organized according to applied standards or the document does not contain mandatory sections]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:defectTypeValue oid = "DTV-0016">
+<rem:name>No traceability</rem:name>
+<rem:description>
+<![CDATA[The requirement or requirements are not traced to their origins, either higher-level requirements (i.e. objectives) or stakeholders]]>
+</rem:description>
+</rem:defectTypeValue>
+<rem:importanceValue oid = "IMV-0001">
+<rem:name>TBD</rem:name>
 </rem:importanceValue>
 <rem:importanceValue oid = "IMV-0002">
 <rem:name>vital</rem:name>
@@ -2528,35 +2636,35 @@ Natural numbers</rem:description>
 <rem:importanceValue oid = "IMV-0003">
 <rem:name>important</rem:name>
 </rem:importanceValue>
-<rem:importanceValue oid = "IMV-0001">
-<rem:name>TBD</rem:name>
+<rem:importanceValue oid = "IMV-0004">
+<rem:name>would be nice</rem:name>
 </rem:importanceValue>
-<rem:stabilityValue oid = "SBV-0001">
-<rem:name>TBD</rem:name>
-</rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0002">
 <rem:name>low</rem:name>
-</rem:stabilityValue>
-<rem:stabilityValue oid = "SBV-0004">
-<rem:name>high</rem:name>
 </rem:stabilityValue>
 <rem:stabilityValue oid = "SBV-0003">
 <rem:name>medium</rem:name>
 </rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0001">
+<rem:name>TBD</rem:name>
+</rem:stabilityValue>
+<rem:stabilityValue oid = "SBV-0004">
+<rem:name>high</rem:name>
+</rem:stabilityValue>
+<rem:statusValue oid = "STV-0001">
+<rem:name>TBD</rem:name>
+</rem:statusValue>
+<rem:statusValue oid = "STV-0004">
+<rem:name>needs validation</rem:name>
+</rem:statusValue>
 <rem:statusValue oid = "STV-0002">
 <rem:name>under construction</rem:name>
 </rem:statusValue>
 <rem:statusValue oid = "STV-0003">
 <rem:name>needs verification</rem:name>
 </rem:statusValue>
-<rem:statusValue oid = "STV-0004">
-<rem:name>needs validation</rem:name>
-</rem:statusValue>
 <rem:statusValue oid = "STV-0005">
 <rem:name>validated</rem:name>
-</rem:statusValue>
-<rem:statusValue oid = "STV-0001">
-<rem:name>TBD</rem:name>
 </rem:statusValue>
 <rem:terminationValue oid = "TEV-0003">
 <rem:name>is cancelled</rem:name>
@@ -2567,50 +2675,50 @@ Natural numbers</rem:description>
 <rem:terminationValue oid = "TEV-0002">
 <rem:name>resumes</rem:name>
 </rem:terminationValue>
-<rem:timeUnitValue oid = "TUV-0007">
-<rem:name>week(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0005">
-<rem:name>month(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0002">
-<rem:name>year(s)</rem:name>
+<rem:timeUnitValue oid = "TUV-0001">
+<rem:name>TBD</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0008">
 <rem:name>day(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0001">
-<rem:name>TBD</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0014">
-<rem:name>millisecond(s)</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0012">
-<rem:name>tenth(s) of a second</rem:name>
-</rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0009">
-<rem:name>hour(s)</rem:name>
-</rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0010">
 <rem:name>minute(s)</rem:name>
 </rem:timeUnitValue>
-<rem:timeUnitValue oid = "TUV-0013">
-<rem:name>hundreth(s) of a second</rem:name>
+<rem:timeUnitValue oid = "TUV-0002">
+<rem:name>year(s)</rem:name>
 </rem:timeUnitValue>
 <rem:timeUnitValue oid = "TUV-0011">
 <rem:name>second(s)</rem:name>
 </rem:timeUnitValue>
-<rem:urgencyValue oid = "URV-0002">
-<rem:name>immediately</rem:name>
-</rem:urgencyValue>
-<rem:urgencyValue oid = "URV-0003">
-<rem:name>under pressure</rem:name>
-</rem:urgencyValue>
+<rem:timeUnitValue oid = "TUV-0005">
+<rem:name>month(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0009">
+<rem:name>hour(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0012">
+<rem:name>tenth(s) of a second</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0007">
+<rem:name>week(s)</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0013">
+<rem:name>hundreth(s) of a second</rem:name>
+</rem:timeUnitValue>
+<rem:timeUnitValue oid = "TUV-0014">
+<rem:name>millisecond(s)</rem:name>
+</rem:timeUnitValue>
 <rem:urgencyValue oid = "URV-0001">
 <rem:name>TBD</rem:name>
 </rem:urgencyValue>
 <rem:urgencyValue oid = "URV-0004">
 <rem:name>can wait</rem:name>
+</rem:urgencyValue>
+<rem:urgencyValue oid = "URV-0002">
+<rem:name>immediately</rem:name>
+</rem:urgencyValue>
+<rem:urgencyValue oid = "URV-0003">
+<rem:name>under pressure</rem:name>
 </rem:urgencyValue>
 </rem:predefinedValues>
 </rem:requirementsProject>
