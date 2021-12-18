@@ -1,161 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <rem:log xmlns:rem="http://rem.lsi.us.es">
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [IRQ-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Deleted object [ACT-0002] Usuario notificador with 0 children and 1 changes]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Deleted object [OBJ-0005] Formar a los usuarios de  la aplicación with 0 children and 1 changes]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0028]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Added client organization [ORG-0001] USC]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>S</rem:type>
 <rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>1</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>1</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>1</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0007]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [IRQ-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>11</rem:month>
-<rem:day>30</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>7</rem:day>
@@ -172,6 +19,69 @@
 <rem:description><![CDATA[Eliminado el objeto [IRQ-0007]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0030</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0031] Subsistema de gestión de avisos)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Added client organization [ORG-0001] USC]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Deleted object [OBJ-0005] Formar a los usuarios de  la aplicación with 0 children and 1 changes]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
@@ -181,22 +91,40 @@
 <rem:description><![CDATA[Deleted object [OBJ-0001]  with 0 children and 1 changes]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>11</rem:month>
 <rem:day>30</rem:day>
 </rem:date>
-<rem:description><![CDATA[Added developer organization [ORG-0002] Empresa Software]]></rem:description>
+<rem:description><![CDATA[Document saved]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0035</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>11</rem:month>
 <rem:day>30</rem:day>
 </rem:date>
-<rem:description><![CDATA[Deleted object [ACT-0001]  with 0 children and 1 changes]]></rem:description>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
@@ -214,20 +142,47 @@
 <rem:month>11</rem:month>
 <rem:day>30</rem:day>
 </rem:date>
-<rem:description><![CDATA[Deleted object [SEC-0014]  with 0 children and 1 changes]]></rem:description>
+<rem:description><![CDATA[Deleted object [ACT-0001]  with 0 children and 1 changes]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>11</rem:month>
 <rem:day>30</rem:day>
 </rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
+<rem:description><![CDATA[Deleted object [SEC-0014]  with 0 children and 1 changes]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>1</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Added developer organization [ORG-0002] Empresa Software]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
 <rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>1</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>1</rem:day>
@@ -241,41 +196,50 @@
 <rem:month>12</rem:month>
 <rem:day>7</rem:day>
 </rem:date>
+<rem:description><![CDATA[Eliminado el objeto [IRQ-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [IRQ-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
 <rem:description><![CDATA[Eliminado el objeto [SEC-0014] Reglas de negocio con 0 hijos y 0 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>C</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>11</rem:month>
 <rem:day>30</rem:day>
 </rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
+<rem:description><![CDATA[Deleted object [ACT-0002] Usuario notificador with 0 children and 1 changes]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
+<rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
-<rem:day>18</rem:day>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0028]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>1</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -284,22 +248,130 @@
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
-<rem:day>18</rem:day>
+<rem:day>7</rem:day>
 </rem:date>
-<rem:description><![CDATA[Deleted object [FRQ-0003]  with 0 children and 1 changes]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0007]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>11</rem:month>
+<rem:day>30</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>18</rem:day>
 </rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0029</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0030] Subsistema de geolocalización)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0030</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado hijo nº1 ([SEC-0031] Subsistema de gestión de avisos)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0033</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0029]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0031</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0029</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0030] Subsistema de geolocalización)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0029]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0030</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>18</rem:day>
@@ -313,7 +385,88 @@
 <rem:month>12</rem:month>
 <rem:day>18</rem:day>
 </rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0029</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0029]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0034</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0032</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0001] Nombres equipo con 0 hijos y 0 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
@@ -323,6 +476,24 @@
 <rem:day>18</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -335,174 +506,12 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
 <rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>18</rem:day>
 </rem:date>
 <rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>7</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Deleted object [FRQ-0002]  with 0 children and 1 changes]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -532,42 +541,6 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [TRM-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2021</rem:year>
-<rem:month>12</rem:month>
-<rem:day>18</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>S</rem:type>
 <rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2021</rem:year>
@@ -586,13 +559,31 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2021</rem:year>
 <rem:month>12</rem:month>
 <rem:day>18</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [PRG-0001] Nombres equipo con 0 hijos y 0 cambios]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
@@ -602,5 +593,833 @@
 <rem:day>18</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [TRM-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>7</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Deleted object [FRQ-0003]  with 0 children and 1 changes]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Deleted object [FRQ-0002]  with 0 children and 1 changes]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza desde [IRQ-0013] Interface gráfica da aplicación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido autor [STK-0002] Analista de Requisitos]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Postcondition] actualizada [Usuario se registra en la aplicación] -> [Usuario accede a la aplicación]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 (Si En caso de que el usuario e...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0007</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] del hijo nº3 actualizada: [PD] -> [mostrará un mensaje por pantalla]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0010</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0008</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Coordinador proyecto] -> [Coordinador proyecto]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0011</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida fuente [STK-0001] Coordinador proyecto]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [FrequencyTimeUnit] actualizada [TBD] -> [minute(s)]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Precondition] actualizada [Usuario no está registrado] -> [Usuario está registrado]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0008</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0008]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0009</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Condition] del hijo nº3 actualizada: [En caso de que el usuario exista mensaje de error] -> [En caso de que el usuario exista en nuestra base de datos]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0013</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0006</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [NFR-0009]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0014</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza hacia [IRQ-0007] Aplicación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [TriggeringEvent] actualizada [Usuario se registra en la aplicación] -> [Usuario inicia sesión en la aplicación]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Registro] -> [Inicio de sesion]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>STK-0009</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Analista de Requisitos] -> [Analista de Requisitos]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0008]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0003</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [SOP-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza hacia [FRQ-0006] Asignación de roles aos distintos membros]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 (Actor Usuario Inicia la aplica...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Clonado a partir de [UC-0001] Registro del proyecto C:\Users\PC\Desktop\3Informatica\1Cuatri\EnxeñeriaDoSoftware\Practicas\Practica5\Practica 5.2\REM.rem]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza hacia [IRQ-0007] Aplicación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [TYP-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [ASO-0001] ( ?, ? ) con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0029</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0037] Casos de Uso)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0036</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Copia de Diagrama de casos de uso] -> [Diagrama de casos de uso]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0029</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0036] Copia de Diagrama de casos de uso)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0037</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0038</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0039</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0008</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Clonado a partir de [STK-0001] Coordinador proyecto del proyecto C:\Users\PC\Desktop\3Informatica\1Cuatri\EnxeñeriaDoSoftware\Practicas\Practica5\Practica 5.2\REM.rem]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza hacia [IRQ-0012] Base de datos de usuarios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>SEC-0036</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Clonado a partir de [SEC-0020] Diagrama de casos de uso del proyecto C:\Users\PC\Desktop\3Informatica\1Cuatri\EnxeñeriaDoSoftware\Practicas\Practica5\Practica 5.2\REM.rem]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [VAL-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0030</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 ([SEC-0038] Diagramas de casos de uso)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0005</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 (El sistema El sistema comprueb...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>SEC-0030</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 ([SEC-0039] Casos de uso)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>STK-0009</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Clonado a partir de [STK-0002] Analista de Requisitos del proyecto C:\Users\PC\Desktop\3Informatica\1Cuatri\EnxeñeriaDoSoftware\Practicas\Practica5\Practica 5.2\REM.rem]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida traza desde [IRQ-0013] Interface gráfica da aplicación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [TYP-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido autor [STK-0002] Analista de Requisitos]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Prazo de entrega fin de novembro:] -> [Prazo de entrega fin de novembro]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0014</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Status] actualizada [TBD] -> [under construction]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [NFR-0012] Compatibilidade da aplicación para dispositivos móbiles con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0015</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0007</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Requisito no funcional del producto de fialbilidad]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0015</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Urgency] actualizada [TBD] -> [immediately]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0015</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Status] actualizada [TBD] -> [validated]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0015</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Name] actualizada [Soldos do persoal:] -> [Soldos do persoal]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0002</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Requisitos no funcionales organizacionales de entrega]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Requisito no funcional del producto de eficiencia de usabilidad]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0014</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Urgency] actualizada [TBD] -> [under pressure]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0015</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Stability] actualizada [TBD] -> [high]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0014</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Stability] actualizada [TBD] -> [high]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0016</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0017</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Requisito no funcional del producto de eficiencia (rendimiento)]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0005</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Comments] actualizada [Ninguno] -> [Requisito no funcional del producto de portabilidad]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>NFR-0004</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadida fuente [STK-0001] Coordinador proyecto]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>NFR-0017</rem:owner><rem:date>
+<rem:year>2021</rem:year>
+<rem:month>12</rem:month>
+<rem:day>18</rem:day>
+</rem:date>
+<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 </rem:log>
